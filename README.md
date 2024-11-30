@@ -6,9 +6,9 @@ Olá! Sou Edyelgue Carneiro, desenvolvedor apaixonado por automação, visualiza
 
 📌 Projetos em destaque:
 
-    Automação de processos com Puppeteer e outras tecnologias.
-    Desenvolvimento de aplicações com PHP e Laravel.
-    Ferramentas e dashboards utilizando Power BI e Excel Avançado.
+- Automação de processos com Puppeteer e outras tecnologias.
+- Desenvolvimento de aplicações com PHP e Laravel.
+- Ferramentas e dashboards utilizando Power BI e Excel Avançado.
 
 🚀 Vamos colaborar? Fique à vontade para explorar, contribuir ou trocar ideias.
 
@@ -16,22 +16,31 @@ Obrigado pela visita! 😄
 
 ## Ferramentas e Tecnologias
 
+<span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40" /> 
+</span>
 
+<span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" width="40" height="40" />
+</span>
 
+<span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40" /> 
+</span>
 
+<span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" /> 
+</span>
+
 
 ## Estou aprendendo
 
