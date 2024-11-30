@@ -1,6 +1,5 @@
 # Olá, me chamo Edyelgue Carneiro! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-
-            <i class="devicon-php-plain colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
           
